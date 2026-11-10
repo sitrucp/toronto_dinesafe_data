@@ -15,4 +15,4 @@ Converts Dinesafe data from XML to CSV format for use in Tableau visualizations.
 dinesafe_word_freq.py
 Create tokens from Dinesafe data citation descriptions for word frequency analysis.
 
-Read blog post for more details https://009co.com/?p=146
+Read blog post for more details https://curtispokrant.com/posts/city-of-toronto-dine-safe-open-data-mapped-with-tableau/
